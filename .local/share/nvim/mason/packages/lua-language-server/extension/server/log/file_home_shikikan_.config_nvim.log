@@ -1,0 +1,251 @@
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: ROOT:	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: LOGPATH:	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: METAPATH:	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[04:46:39.033][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: VERSION:	3.5.6
+[04:46:39.111][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.412 MB
+        # 00 : 1.412 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[04:46:39.125][info] [#0:script/language.lua:137]: VSC language: nil
+[04:46:39.126][info] [#0:script/language.lua:138]: LS  language: en-us
+[04:46:39.126][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/shikikan/.config/nvim
+[04:46:39.131][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_home_shikikan_.config_nvim.log
+[04:46:39.131][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/shikikan/.config/nvim
+[04:46:39.242][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/shikikan/.config/nvim
+[04:46:39.243][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[04:46:39.246][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/shikikan/.config/nvim
+[04:46:39.246][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[04:46:39.248][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[04:46:39.248][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[04:46:39.249][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/shikikan/.config/nvim
+[04:46:39.273][info] [#0:script/plugin.lua:86]: plugin path:	/home/shikikan/.config/nvim
+[04:46:39.273][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/shikikan/.config/nvim
+[04:46:39.273][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[04:46:39.292][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[04:46:39.293][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[04:46:39.294][info] [#0:script/workspace/workspace.lua:305]: Preload start:	file:///home/shikikan/.config/nvim
+[04:46:39.295][info] [#0:script/workspace/workspace.lua:311]: Scan files at:	file:///home/shikikan/.config/nvim
+[04:46:39.296][info] [#0:script/workspace/workspace.lua:305]: Preload start:	<fallback>
+[04:46:39.297][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[04:46:39.301][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[04:46:39.309][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[04:46:39.312][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[04:46:39.320][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[04:46:39.327][info] [#0:script/workspace/workspace.lua:328]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[04:46:41.138][info] [#0:script/workspace/workspace.lua:348]: Found 57 files at:	<fallback>
+[04:46:41.139][info] [#0:script/workspace/loading.lua:153]: Load files from disk:	<fallback>
+[04:46:41.147][info] [#0:script/workspace/workspace.lua:348]: Found 75 files at:	file:///home/shikikan/.config/nvim
+[04:46:41.147][info] [#0:script/workspace/loading.lua:153]: Load files from disk:	file:///home/shikikan/.config/nvim
+[04:46:42.742][info] [#0:script/workspace/loading.lua:165]: Loaded files takes [0.857] sec: <fallback>
+[04:46:42.742][info] [#0:script/workspace/loading.lua:174]: Compile files takes [0.000] sec: <fallback>
+[04:46:42.742][info] [#0:script/workspace/loading.lua:175]: Loaded finish:	<fallback>
+[04:46:42.742][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	<fallback>
+[04:46:42.768][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[04:46:42.895][info] [#0:script/workspace/loading.lua:165]: Loaded files takes [0.921] sec: file:///home/shikikan/.config/nvim
+[04:46:42.899][info] [#0:script/workspace/loading.lua:174]: Compile files takes [0.000] sec: file:///home/shikikan/.config/nvim
+[04:46:42.899][info] [#0:script/workspace/loading.lua:175]: Loaded finish:	file:///home/shikikan/.config/nvim
+[04:46:42.899][info] [#0:script/workspace/workspace.lua:350]: Preload finish at:	file:///home/shikikan/.config/nvim
+[04:46:43.061][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[04:46:43.061][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[63]
+[04:46:43.061][info] [#0:script/provider/diagnostic.lua:486]: Diagnostics scope [file:///home/shikikan/.config/nvim], files count:[63]
+[04:46:43.649][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [0.524] sec.
+[04:46:43.650][info] [#0:script/provider/diagnostic.lua:503]: Diagnostics scope [file:///home/shikikan/.config/nvim] finished, takes [0.524] sec.
+[04:56:39.375][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 45.522 MB
+        # 00 : 45.156 MB
+        # 01 : 0.142 MB
+        # 02 : 0.100 MB
+        # 03 : 0.077 MB
+        # 04 : 0.047 MB
+    --------------- Coroutine ---------------
+        Total:     415
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      415
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:06:39.666][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 46.195 MB
+        # 00 : 45.829 MB
+        # 01 : 0.142 MB
+        # 02 : 0.100 MB
+        # 03 : 0.077 MB
+        # 04 : 0.047 MB
+    --------------- Coroutine ---------------
+        Total:     415
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      415
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:16:39.939][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 46.865 MB
+        # 00 : 46.499 MB
+        # 01 : 0.142 MB
+        # 02 : 0.100 MB
+        # 03 : 0.077 MB
+        # 04 : 0.047 MB
+    --------------- Coroutine ---------------
+        Total:     415
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      415
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:26:41.373][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 47.537 MB
+        # 00 : 47.171 MB
+        # 01 : 0.142 MB
+        # 02 : 0.100 MB
+        # 03 : 0.077 MB
+        # 04 : 0.047 MB
+    --------------- Coroutine ---------------
+        Total:     415
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      415
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:36:41.953][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 48.210 MB
+        # 00 : 47.844 MB
+        # 01 : 0.142 MB
+        # 02 : 0.100 MB
+        # 03 : 0.077 MB
+        # 04 : 0.047 MB
+    --------------- Coroutine ---------------
+        Total:     415
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      415
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:40:57.628][info] [#0:script/provider/provider.lua:167]: Server shutdown.
+[05:40:57.785][info] [#0:script/provider/provider.lua:160]: Server exited.

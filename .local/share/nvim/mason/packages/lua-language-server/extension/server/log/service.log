@@ -1,0 +1,31 @@
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: ROOT:	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: LOGPATH:	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[04:46:39.028][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: METAPATH:	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[04:46:39.033][info] [#0:/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: VERSION:	3.5.6
+[04:46:39.111][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.412 MB
+        # 00 : 1.412 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[04:46:39.125][info] [#0:script/language.lua:137]: VSC language: nil
+[04:46:39.126][info] [#0:script/language.lua:138]: LS  language: en-us
+[04:46:39.126][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/shikikan/.config/nvim
+[04:46:39.131][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/shikikan/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_home_shikikan_.config_nvim.log
