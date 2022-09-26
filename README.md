@@ -13,7 +13,8 @@ solarized theme bspwm dotfiles
 * Shell     : zsh          
 * Bar       : polybar     
 * Lockscreen: not yet     
-* Font Used : JetBrains Mono       
+* Font Used : JetBrains Mono
+* Compositor : [picom (Pijulius Fork)](https://github.com/pijulius/picom)
 
 # Dependecies
  * [rofi](https://github.com/davatorium/rofi)      
@@ -24,5 +25,5 @@ solarized theme bspwm dotfiles
  * sxhkd
  * ttf-material-design-icons-extended, nerd fonts might be required as well                    
  * [clearine](https://github.com/okitavera/clearine)        
- * [picom (Pijulius Fork)](https://github.com/pijulius/picom)
+ [picom (Pijulius Fork)](https://github.com/pijulius/picom)
 
