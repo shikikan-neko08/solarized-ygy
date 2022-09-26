@@ -8,7 +8,7 @@ solarized theme bspwm dotfiles
 
 # Details
 * OS        : Arch Linux     
-* WM        : bspm    
+* WM        : bspwm    
 * Terminal  : kitty    
 * Shell     : zsh          
 * Bar       : polybar     
@@ -22,7 +22,7 @@ solarized theme bspwm dotfiles
  * [Polybar](https://github.com/polybar/polybar)       
  * nitrogen       
  * sxhkd
- * ttf-material-design-icons-extended, nerd fonts might be reuired as well                    
+ * ttf-material-design-icons-extended, nerd fonts might be required as well                    
  * [clearine](https://github.com/okitavera/clearine)        
  * [picom (Pijulius Fork)](https://github.com/pijulius/picom)
 
