@@ -25,5 +25,5 @@ solarized theme bspwm dotfiles
  * sxhkd
  * ttf-material-design-icons-extended, nerd fonts might be required as well                    
  * [clearine](https://github.com/okitavera/clearine)        
- [picom (Pijulius Fork)](https://github.com/pijulius/picom)
+
 
